@@ -1,3 +1,3 @@
 # Ticketsystem
-Ein ticketsystem dass toll ist
-USe Xammp and importiere dir the database
+A really nice ticketing system
+Uee Xammp and importiere dir the database
